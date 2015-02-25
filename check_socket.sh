@@ -1,5 +1,4 @@
 #!/bin/bash
-# GENERATED FROM PUPPET
 ###########
 # 2015.02.25 rav@rndoi - initial file creation
 # check if a socket exists for a given address/port
