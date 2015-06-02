@@ -1,6 +1,6 @@
 #!/bin/bash
 ###########
-# 2015.02.25 rav@rndoi - initial file creation
+# 2015.02.25 romain.aviolat@nagra.com - initial file creation
 # check if a socket exists for a given address/port
 
 
